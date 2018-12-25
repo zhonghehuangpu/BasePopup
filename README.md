@@ -399,22 +399,7 @@ QuickPopupBuilder支持链式调用生成一个基于QuickPopup的PopupWindow，
 <br>
 
 
-### 打赏（看在我那么努力维护的份上。。。给个零食呗~）
 
-| 微信 |支付宝 | 
-| ---- | ---- | 
-| ![](https://github.com/razerdp/FriendCircle/blob/master/wechat.png)      | ![](https://github.com/razerdp/FriendCircle/blob/master/alipay.png) |
-
-<br>
-
-### 交流群：590777418
-
-因为目前还有朋友圈项目，建立了一个交流群，出于懒得管理那么多，所以如果有想法或者优化建议或者其他问题，欢迎加入“朋友圈交流群”
-
-![](https://github.com/razerdp/FriendCircle/blob/master/qqgroup.png)
-
-
-<br>
 
 ### 常见问题
 
